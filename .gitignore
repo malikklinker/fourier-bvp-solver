@@ -1,0 +1,12 @@
+build/
+*.o
+*.mod
+*.ex
+__pycache__/
+.venv/
+data/
+sol.dat
+image.pdf
+comparison_N*.pdf
+*_Fractal.dat
+*.png
